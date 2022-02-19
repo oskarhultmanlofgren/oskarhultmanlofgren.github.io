@@ -6,4 +6,5 @@ categories: Stenar
 ---
 Anledningen till att de kallas dalmatiner är att de påminner om Dalmatinerhundar.
 De dalmatinerna är slipade
-![Dalmatiner](/assets/dalmatiner.jpg "Dalmatiner")
+
+![Dalmatiner](/assets/dalmatiner.png "Dalmatiner")
